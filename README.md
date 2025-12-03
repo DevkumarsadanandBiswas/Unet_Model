@@ -3,10 +3,10 @@ Unet_Model_On_ICAD
 just results are shown here.
 Dataset => Train /Val/Test = 204/68/70 = 342 - training with both positive and negative class.
 
-Model => Unet
-Image_Size = 256
-Batch_Size = 2     # run on CPU
-Learning rate = 1e-4 = 0.0001
+Model => Unet, 
+Image_Size = 256,
+Batch_Size = 2     # run on CPU,
+Learning rate = 1e-4 = 0.0001,
 Epochs = 50
 
 
