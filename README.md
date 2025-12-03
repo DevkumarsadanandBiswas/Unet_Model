@@ -10,11 +10,12 @@ Learning rate = 1e-4 = 0.0001
 Epochs = 50
 
 
-Metrics    Value
-Dice      0.13
-IoU       0.095
-Accuracy  1.0
-Precision 0.15
-Recall    0.37
-F1-Score  0.21
+| **Metric**     | **Value** |
+| -------------- | --------- |
+| **Dice Score** | 0.13      |
+| **IoU**        | 0.095     |
+| **Accuracy**   | 1.00      |
+| **Precision**  | 0.15      |
+| **Recall**     | 0.37      |
+| **F1 Score**   | 0.21      |
 
